@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shanker 👋
 
-<!--
-**shanker25/shanker25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Passionate about Machine Learning  
+🚀 Building projects and improving daily  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python  
+- SQL  
+- Pandas  
+- NumPy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Learning Machine Learning concepts  
+- Working on real-world projects  
+- Improving problem-solving skills  
+
+## 📂 Projects
+- Student Marks Prediction (Linear Regression)
+
+## 📈 Goals
+- Become a Machine Learning Engineer  
+- Build strong projects  
+- Get internships  
+
+## 📫 Connect with me
+- GitHub: https://github.com/shanker25
