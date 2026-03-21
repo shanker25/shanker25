@@ -8,7 +8,9 @@
 - Python  
 - SQL  
 - Pandas  
-- NumPy  
+- NumPy
+- Matplotlib
+- Seaborn
 
 ## 📌 Current Focus
 - Learning Machine Learning concepts  
