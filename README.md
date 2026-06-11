@@ -12,6 +12,6 @@
 
 🚀 Building projects and improving every day
 
-📫 Reach me: linkedin.com/in/shanker25/
+📫 Reach me: [linkedin.com/in/shanker25/](https://www.linkedin.com/in/shanker25/)
 
 ⭐ "Learn • Build • Improve"
