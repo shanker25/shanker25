@@ -1,29 +1,17 @@
 # Hi, I'm Shanker 👋
 
-🎓 B.Tech IT Student  
-💻 Passionate about Machine Learning  
-🚀 Building projects and improving daily  
+🎓 B.Tech IT Student
 
-## 🔧 Skills
-- Python  
-- SQL  
-- Pandas  
-- NumPy
-- Matplotlib
-- Seaborn
+💻 Interested in Cloud Computing, Machine Learning, and Software Development
 
-## 📌 Current Focus
-- Learning Machine Learning concepts  
-- Working on real-world projects  
-- Improving problem-solving skills  
+🌱 Currently Learning:
 
-## 📂 Projects
-- Student Marks Prediction (Linear Regression)
+* AWS Cloud
+* Machine Learning
+* Python
 
-## 📈 Goals
-- Become a Machine Learning Engineer  
-- Build strong projects  
-- Get internships  
+🚀 Building projects and improving every day
 
-## 📫 Connect with me
-- GitHub: https://github.com/shanker25
+📫 Reach me: linkedin.com/in/shanker25/
+
+⭐ "Learn • Build • Improve"
