@@ -2,11 +2,11 @@
 
 🎓 B.Tech IT Student
 
-💻 Interested in Cloud Computing, Machine Learning, and Software Development
+💻 Interested in Machine Learning, and Software Development
 
 🌱 Currently Learning:
 
-* AWS Cloud
+* Java
 * Machine Learning
 * Python
 
